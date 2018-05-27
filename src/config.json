@@ -1,0 +1,9 @@
+{
+	"port": 8080,
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"],
+	"database":{
+		"url": "mongodb://localhost:27017",
+		"databaseName": "user-manager"
+	}
+}
